@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notification Assignment</string>
+    <string name="notification">immutable implementing class, like String or mutable ones, like StringBuilder and StringBuffer.
+In addition, CharSequence does not refine the general purpose implementations of the equals() or hashCode() methods, so there is no guarantee that objects of different classes implementing CharSequence will compare to be equal even if the underlying sequence that they hold is the same. </string>
+</resources>
